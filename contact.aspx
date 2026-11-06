@@ -110,11 +110,11 @@
                                 <i class="fas fa-phone-alt"></i>
                             </div>
                             <div class="flex-grow-1">
-                                <div class="d-flex align-items-center justify-content-between mb-1">
+                                <div class="d-flex flex-wrap align-items-center justify-content-between gap-1 mb-1">
                                     <h4 class="contact-info-title mb-0">Call Us (24/7 Helpline)</h4>
                                     <span class="contact-badge-chip contact-badge-soft-success"><i class="fas fa-circle me-1" style="font-size: 7px;"></i>Available 24/7</span>
                                 </div>
-                                <div class="d-flex flex-wrap align-items-center gap-3">
+                                <div class="d-flex flex-column flex-sm-row flex-wrap align-items-start align-items-sm-center gap-1 gap-sm-3">
                                     <a href="tel:+919795952203" class="contact-link-highlight">
                                         <i class="fas fa-phone-volume me-1 text-primary"></i>+91-9795952203
                                     </a>
@@ -131,13 +131,10 @@
                             <div class="contact-icon-bubble">
                                 <i class="fas fa-envelope-open-text"></i>
                             </div>
-                            <div class="flex-grow-1">
-                                <div class="d-flex align-items-center justify-content-between mb-1">
-                                    <h4 class="contact-info-title mb-0">Email Us</h4>
-                                    <span class="text-muted small">Confidential Inquiries</span>
-                                </div>
+                            <div class="flex-grow-1 overflow-hidden">
+                                <h4 class="contact-info-title mb-1">Email Us</h4>
                                 <div>
-                                    <a href="mailto:prayasnashamuktikendra@gmail.com" class="contact-link-highlight">
+                                    <a href="mailto:prayasnashamuktikendra@gmail.com" class="contact-link-highlight contact-email-link">
                                         <i class="fas fa-envelope me-1 text-primary"></i>prayasnashamuktikendra@gmail.com
                                     </a>
                                 </div>
@@ -145,7 +142,7 @@
                         </div>
 
                         <!-- Card 4: Working Hours & Social Community -->
-                        <div class="contact-info-card justify-content-between gap-3">
+                        <div class="contact-info-card contact-card-emergency justify-content-between gap-3">
                             <div class="d-flex align-items-center gap-3">
                                 <div class="contact-icon-bubble">
                                     <i class="fas fa-clock"></i>
@@ -157,7 +154,7 @@
                                     </span>
                                 </div>
                             </div>
-                            <div class="d-flex gap-2">
+                            <div class="d-flex gap-2 contact-social-row">
                                 <a class="contact-social-pill" href="https://www.facebook.com/prayasnashamuktikendra" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                                 <a class="contact-social-pill" href="https://www.youtube.com/@PrayasNashaMuktiKendra-lf3qz" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
                                 <a class="contact-social-pill" href="https://www.instagram.com/prayasnashamuktikendra/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
